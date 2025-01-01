@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ameermohamed2500@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d9GNr7X35gaveXWOicUGp7QvtN5gNbwb/view?usp=drive_link](https://drive.google.com/file/d/1d9GNr7X35gaveXWOicUGp7QvtN5gNbwb/view?usp=drive_link)
+- 📄 Know about my experiences [Amir's CV](https://drive.google.com/file/d/1NYLwAKm9n6Sd0IydC9pIEVhYUU-RkkT-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
