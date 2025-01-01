@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir Muhammad</h1>
 <h3 align="center">Frontend Engineer</h3>
-<p aligm="center">Driven, creative, and always eager to grow.</p>
+<p align="center">Driven, creative, and always eager to grow.</p>
 
 <p align="left"> <a href="https://twitter.com/old_same61414" target="blank"><img src="https://img.shields.io/twitter/follow/old_same61414?logo=twitter&style=for-the-badge" alt="old_same61414" /></a> </p>
 
