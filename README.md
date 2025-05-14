@@ -21,5 +21,3 @@
 <a href="https://instagram.com/sconderg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sconderg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ameermohamed2500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ameermohamed2500" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sconderg&show_icons=true&locale=en" alt="sconderg" /></p>
