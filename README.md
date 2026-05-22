@@ -1,61 +1,41 @@
-<h1 align="center">Hey 👋, I'm Amir Muhammad</h1>
-<h3 align="center">Frontend Engineer building real-world, scalable products</h3>
-
-<p align="center">
-Currently building Tafseel — an AI-powered platform that helps people apply for jobs smarter, not harder.
-</p>
+<h1 align="center">Hi, I'm Amir Muhammad 👋</h1>
+<h3 align="center">Frontend engineer. I build things, then ship them.</h3>
 
 ---
 
-### 🚀 Tafseel (تفصيل)
+## Tafseel (تفصيل)
 
-Tafseel solves a real problem:
+Job hunting is mostly guesswork. You fire off the same CV to fifty listings
+and hope something sticks.
 
-Applying to jobs today is random, repetitive, and unclear.
+Tafseel is what I'm building to fix that. It pulls jobs from 15+ sources into
+one feed. For each listing it rewrites your CV to fit (structured,
+ATS-readable), scores how well you actually match, and shows the gaps before
+you apply. It drafts a cover letter and some interview prep too. Listings get
+ranked by semantic similarity using embeddings, so a real React role doesn't
+sink under keyword noise. Everything you've applied to sits in one simple
+pipeline.
 
-So instead of applying more… it helps you apply smarter.
+Built with Next.js, FastAPI, Supabase, local embeddings, and a few AI
+integrations.
 
-**What it does:**
+## Right now
 
-- 🔍 Aggregates jobs from 15+ sources into one clean feed  
-- 🧠 AI-tailors your CV for each job (structured, ATS-friendly)  
-- 📊 Shows match score + gap analysis before you apply  
-- ✉️ Generates cover letters + interview prep  
-- 🎯 Ranks jobs based on real similarity (embeddings, not keywords)  
-- 📌 Tracks your applications in a simple pipeline  
+Scaling Tafseel toward launch. A lot of that is system design and frontend
+architecture work as the thing grows.
 
-**Tech:**
-Next.js + FastAPI + Supabase + local embeddings + AI integrations
+## What I'm good at
 
----
+Frontend is my home base: React, Next.js, modern JavaScript. I've shipped real
+products — the kind with actual users and bug reports, not just portfolio
+demos. I care about performance and UX, and I go into the backend when a
+feature needs it (REST APIs, Laravel, Supabase, Python).
 
-### What I'm working on
+## Open to
 
-- 🚀 Scaling Tafseel and preparing for launch  
-- ⚡ Building AI-powered product features  
-- 🧠 Improving system design and frontend architecture  
+Open source collaboration, freelance and contract work, and teams that care
+about the product itself.
 
----
+## Reach me
 
-### What I bring
-
-- Strong frontend fundamentals (React, Next.js, modern JS)
-- Real experience building and shipping actual products
-- Focus on performance, UX, and clean architecture
-- Can handle backend when needed (APIs, Laravel, Supabase, Python)
-
----
-
-### Open to
-
-- 🤝 Open source collaborations  
-- 🚀 Freelance / contract work  
-- 💡 Product-focused teams  
-
----
-
-### Reach me
-
-- 📫 **Email:** amir@tafseel.xyz  
-
----
+amir@tafseel.xyz
