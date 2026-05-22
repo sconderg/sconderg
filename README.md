@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Amir Muhammad 👋</h1>
 <h3 align="center">Frontend engineer. I build things, then ship them.</h3>
 
----
-
 ## Tafseel (تفصيل)
 
 Job hunting is mostly guesswork. You fire off the same CV to fifty listings
