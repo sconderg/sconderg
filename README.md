@@ -56,6 +56,6 @@ Next.js + FastAPI + Supabase + local embeddings + AI integrations
 
 ### Reach me
 
-- 📫 **Email:** ameermohamed2500@gmail.com  
+- 📫 **Email:** amir@tafseel.xyz  
 
 ---
